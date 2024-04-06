@@ -23,7 +23,7 @@ class VectorDemo{
 		
 		System.out.println(v);
 		//methods for removing elements of a vectorclass
-		v.remove(6);//removes the element at a particular element
+		v.remove(6);//removes the element at a particular index
 		v.remove(Integer.valueOf(45));
 		v.removeAll(l);//removes particular collection
 		v.removeElement(78); //removes the particular element
